@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1:className} = \$this-&gt;getMock('${1/^([a-z])/\u$1/}');</string>
+	<key>name</key>
+	<string>mock</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>mock</string>
+	<key>uuid</key>
+	<string>1B49B571-1EBD-4464-A17D-FAB63F0983B1</string>
+</dict>
+</plist>
